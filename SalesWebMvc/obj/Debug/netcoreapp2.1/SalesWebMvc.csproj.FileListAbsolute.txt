@@ -33,4 +33,3 @@ F:\c# projects\WEB\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.d
 F:\c# projects\WEB\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 F:\c# projects\WEB\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 F:\c# projects\WEB\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
-F:\c# projects\WEB\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Index.cshtml.g.cs
