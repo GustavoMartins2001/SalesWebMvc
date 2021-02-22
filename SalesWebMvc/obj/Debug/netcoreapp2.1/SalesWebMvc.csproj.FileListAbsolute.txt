@@ -38,3 +38,4 @@ F:\c# projects\WEB\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\D
 F:\c# projects\WEB\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departaments\Details.cshtml.g.cs
 F:\c# projects\WEB\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departaments\Edit.cshtml.g.cs
 F:\c# projects\WEB\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departaments\Index.cshtml.g.cs
+F:\c# projects\WEB\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
